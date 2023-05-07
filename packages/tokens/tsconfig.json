@@ -1,0 +1,4 @@
+{
+  "extends": "@felipeignite-ui/ts-config/base.json",
+  "includes": ["src"]
+}
