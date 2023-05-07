@@ -1,0 +1,2 @@
+import{A as t}from"./index.b22c1eae.js";import"./index.f9a15763.js";import"./iframe.9f2966ce.js";import"./index.14427153.js";import"./jsx-runtime.f2e70a89.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/felipeWanderson.png",alt:"Felipe Leal"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.54923db3.js.map
