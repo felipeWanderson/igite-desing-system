@@ -129,4 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 Footer
+.turbo
 © 2023 GitHub, Inc.
